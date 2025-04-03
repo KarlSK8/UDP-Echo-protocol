@@ -1,5 +1,5 @@
 # UDP-Echo-protocol
-Implementation of the Echo protocol
+
 This is an emplementation of the Echo protocol using UDP. 
 A client sends a message, the server receives it and reply with a message having the same content (Echo).
 The server shows the date and time at which he received the message from the client.
